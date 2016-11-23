@@ -1,0 +1,29 @@
+{
+  "name": "step-by-step-eslint",
+  "version": "1.0.0",
+  "description": "Step by Stepで始めるESLint",
+  "main": "",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howdy39/step-by-step-eslint.git"
+  },
+  "keywords": [
+    "ESLint",
+    "tutorial"
+  ],
+  "author": "Tatsuya Nakano",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/howdy39/step-by-step-eslint/issues"
+  },
+  "homepage": "https://github.com/howdy39/step-by-step-eslint#readme",
+  "devDependencies": {
+    "eslint": "^3.10.2"
+  }
+}
